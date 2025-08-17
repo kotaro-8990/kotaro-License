@@ -1,4 +1,4 @@
-# kotaro License
+# Kotaro License v1.0
 
 > このライセンスは、単なる利用条件ではなく、創作と発信の“美学”を語るものです。
 
