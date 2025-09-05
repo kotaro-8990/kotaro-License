@@ -55,7 +55,7 @@ Kotaro Licenseは、著作権法に基づく法的拘束力を持つライセン
 ---
 
 ### ■ 著作権表示 (法的条項)
-© 2025 @kotaro1192（X、Instagram、Threads、Tiktok）  
+© 2025 @kotaro_11_92（X、Instagram、Threads、Tiktok）  
 Facebook：Kotaro Kikuchi｜mixi：菊地 小太郎  
 
 本ライセンスに基づくすべての投稿は著作権法により保護されています。  
