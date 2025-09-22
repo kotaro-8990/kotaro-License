@@ -29,6 +29,8 @@ SNSや動画プラットフォームにおける投稿は、以下の思想に�
 © 2025 @kotaro_11_92(X、Instagram、Threads、Tiktok)
 Facebookは Kotaro Kikuchi 
 mixiは菊地 小太郎
+アメーバブログ：小太郎🐭🧀 
+GitHub：Kotaro-8990
 著作権者の範囲や禁止事項については、法的条項セクションをご参照ください。
 
 この投稿はKotaro Licenseに基づき、非営利・思想共有を目的としています。  
@@ -68,7 +70,9 @@ Kotaro Licenseは、著作権法に基づく法的拘束力を持つライセン
 
 ### ■ 著作権表示 (法的条項)
 © 2025 @kotaro_11_92（X、Instagram、Threads、Tiktok）  
-Facebook：Kotaro Kikuchi｜mixi：菊地 小太郎 アメーバブログ：小太郎🐭🧀 
+Facebook：Kotaro Kikuchi
+mixi：菊地 小太郎  
+アメーバブログ：小太郎🐭🧀 
 GitHub：Kotaro-8990
 
 本ライセンスに基づくすべての投稿は著作権法により保護されています。  
