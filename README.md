@@ -10,7 +10,7 @@ This repository describes the license policy for the purpose of clarifying the i
 
 ---
 
-### Kotaro License v1.2 要点サマリー
+### Kotaro License v1.3 要点サマリー
 
 ・営利利用は禁止（文脈逸脱とみなす）
 ・出典と文脈の尊重が必須
@@ -20,7 +20,7 @@ This repository describes the license policy for the purpose of clarifying the i
 
 ※以下に全文を記載します。文脈と温度を含めてご確認ください。
 
-### Kotaro License v1.2 Summary
+### Kotaro License v1.3 Summary
 
 ・Commercial use is prohibited (considered out of context)
 ・Respect for sources and context is essential
@@ -31,7 +31,7 @@ This repository describes the license policy for the purpose of clarifying the i
 *The full text is listed below. Please check with context and temperature.
 
 ## ライセンス思想（README的パート）
-「Kotaro License v1.2」
+「Kotaro License v1.3」
 
 ### 背景と思想的立場
 
@@ -41,7 +41,7 @@ This repository describes the license policy for the purpose of clarifying the i
 SNSや動画プラットフォームにおける投稿は、以下の思想に基づいて発信されています：
 
 ## Licensing Philosophy (README Part)
-「Kotaro License v1.2」
+「Kotaro License v1.3」
 
 ### Background and Ideological Stance
 
@@ -116,13 +116,13 @@ The legal provisions are intended to protect the copyrighted work, while the ide
 > 
 > This position is presented as the ideological argument of the originator, beyond the technical acceptance of the platform terms.
 
-## Kotaro License v1.2（法的ライセンス条項）
+## Kotaro License v1.3（法的ライセンス条項）
 
 > Kotaro Licenseは、著作権法に基づく法的拘束力を持つライセンス条項と、創作への敬意を促す思想的ガイドラインの両面を持ちます。  
 > 法的条項は、著作物の営利・非営利を問わず、文脈を逸脱した引用・参照および二次利用を禁止することを目的とします。  
 > 思想的部分は、創作者の意図・表現の背景・文脈を尊重するための指針として提示されます。
 
-## Kotaro License v1.2 (Legal License Terms)
+## Kotaro License v1.3 (Legal License Terms)
 
 The > Kotaro License has both legally binding license terms under copyright law and ideological guidelines that encourage respect for creation.  
 > The legal provisions are intended to prohibit out-of-context quotations, references, and secondary uses of copyrighted works, whether commercial or non-commercial.  
@@ -185,13 +185,16 @@ You are prohibited from doing the following without the permission of the copyri
 - v1.0（2025年8月）：初版。構造美・納得感・遊び心を軸に、非営利・思想共有を目的としたライセンス思想を定義。
 - v1.1（2025年9月）：法的拘束力の明文化と条文再設計。SNS投稿における補足条項も明文化し、思想の盾としての役割を強化。
 - v1.2 要点サマリーを追加する事により、冒頭でライセンス思想を簡潔に説明。
+- v1.3 (2025年11月):日本語のみの説明としてたのを見直し、英語による説明を追記。
 
 ※※v1.0では「文脈を壊すような使い方をすると、作者がそっと泣きます」という表現がありましたが、v1.1では法的明確性を優先し、削除されました。
+
 
 ## Kotaro License Tree Ring Log (Transition of Thought)
 
 - v1.0 (August 2025): First edition. Based on structural beauty, satisfaction, and playfulness, we define a licensing philosophy for the purpose of non-profit and idea sharing.
 - v1.1 (September 2025): Legally binding clarification and article redesign. Supplementary clauses in social media posts are also clearly stipulated to strengthen their role as ideological shields.
 - v1.2 By adding a summary of key points, the licensing philosophy is briefly explained at the beginning.
+-  v1.3 (November 2025): Reviewed the explanation in Japanese only, and added an explanation in English.
 
 **In v1.0, there was an expression that "if you use it in a way that breaks the context, the author will cry softly", but in v1.1, it was removed in favor of legal clarity.
